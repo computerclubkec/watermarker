@@ -35,7 +35,7 @@ This project is a Python script that recursively processes all images in the `in
     python apply_watermark.py
     ```
 
-The script will process all images in the [input](http://_vscodecontentref_/3) folder and its subfolders, add the watermark to the bottom-center of each image, and save the watermarked images in the [output](http://_vscodecontentref_/4) folder, preserving the original directory structure.
+The script will process all images in the [input](input/) folder and its subfolders, add the watermark to the bottom-center of each image, and save the watermarked images in the [output](output/) folder, preserving the original directory structure.
 
 ## Configuration
 
